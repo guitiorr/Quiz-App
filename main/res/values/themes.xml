@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuizApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#00A878</item>
+        <item name="colorPrimaryVariant">#00db9c</item>
+        <item name="android:windowFullscreen">true</item>
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.QuizApp" parent="Base.Theme.QuizApp" />
+</resources>
